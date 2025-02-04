@@ -1,4 +1,3 @@
-# PYTHON-repo
 <h1 align="center">Hi, I'm Brian Gainer 👋</h1>
 <h3 align="center">QA Analyst sample for Python generation of various sample functions</h3>
 
