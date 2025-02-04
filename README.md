@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Python charts](https://github.com/bgainer1/PYTHON-repo)]
 - PYTHON TOPICS OF GENERATED SAMPLES
-1.	Connect Python to various types of data and tools: Visual Studio, https://www.python.org/,  https://code.visualstudio.com/ 
+1.	Connect Python to various types of data and tools: https://www.python.org/, Visual Studios  https://code.visualstudio.com/ 
 
 
 
