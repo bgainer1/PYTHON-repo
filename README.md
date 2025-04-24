@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgainer&label=Profile%20views&color=0e75b6&style=flat" alt="bgainer" /> </p>
 
-- 🔭 I’m currently working on [Python Data Analysis and Visualization] analyze,visualize and present data. Includes diverse samples of notebook coding (Numpy, Pandas, SQL, Machine Learning, Web Scraping, Visualization, and Statistics).
+- 🔭 I’m currently working on [Python Data Analysis and Visualization] analyze,visualize and present data. Includes diverse coding samples in notebooks (Numpy, Pandas, SQL, Machine Learning, Web Scraping, Visualization, and Statistics).
+- Learning to use Visual Studio Code
 
 - 👨‍💻 All of my projects are available at [(https://github.com/bgainer1/PYTHON-repo)]
 - * Working with Data
