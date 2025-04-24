@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I'm Brian Gainer 👋 </h1>
 <h3 align="center"> QA Analyst Engineering samples for Python Generation on various data and visualizations </h3>
 
-<p> align="left"> <img src="https://komarev.com/ghpvc/?username=bgainer&label=Profile%20views&color=0e75b6&style=flat" alt="bgainer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bgainer&label=Profile%20views&color=0e75b6&style=flat" alt="bgainer" /> </p>
 
 - 🔭 I’m currently working on [Python Data Analysis and Visualization] analyze,visualize and present data. Includes diverse samples of notebook coding (Numpy, Pandas, SQL, Machine Learning, Web Scraping, Visualization, and Statistics).
 
