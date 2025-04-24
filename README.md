@@ -1,13 +1,29 @@
-# Learning Python for Data Analysis and Visualization
+# Creating Python for Data Analysis and Visualization
 <h1 align="center">Hi, I'm Brian Gainer 👋</h1>
-<h3 align="center">QA Analyst sample for Tableau Generation of various chart functions</h3>
+<h3 align="center">QA Analyst Engineering samples for Python Generation on various data and visualizations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgainer&label=Profile%20views&color=0e75b6&style=flat" alt="bgainer" /> </p>
 
-- 🔭 I’m currently working on [Python Data Analysis and Visualization] analyze,visualize and present data. Includes tons of sample code
-
+- 🔭 I’m currently working on [Python Data Analysis and Visualization] analyze,visualize and present data. Includes diverse samples of notebook coding (Numpy, Pandas, SQL, Machine Learning, Web Scraping, Visualization, and Statistics).
 
 - 👨‍💻 All of my projects are available at [(https://github.com/bgainer1/PYTHON-repo)]
+- * Working with Data
+  * Data Visualization
+  * Data Projects
+  * Titanic Project
+  * Stock Market Analysis
+  * Election Analysis
+  * Machine Learning with SciKit Learn
+  * Linear Regression
+  * Logistic Regression
+  * K Nearist Neighbor
+  * Support Vector Machines
+  * Naive Bayes
+  * Decision Trees and Random Forests
+  * Natural Language Processing
+  * Statistics - (Discrete Uniform Distribution, Continuous Uniform Distribution, Binomial Distribution, Poisson Distribution, Normal, Sampling
+    T-Distribution, Hypothesis, Tesint and Confidence Intervals, Chi Square Test and Distribution, and Bayes Theorem
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
