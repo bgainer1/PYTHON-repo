@@ -1,4 +1,4 @@
-# Creating Python for Data Analysis and Visualization
+<h1 align="center"># Creating Python for Data Analysis and Visualization</h1>
 <h1 align="center">Hi, I'm Brian Gainer 👋</h1>
 <h3 align="center">QA Analyst Engineering samples for Python Generation on various data and visualizations</h3>
 
