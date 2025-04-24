@@ -1,6 +1,6 @@
 # Creating Python for Data Analysis and Visualization
-<h1> align="center">Hi, I'm Brian Gainer 👋</h1>
-<h3> align="center">QA Analyst Engineering samples for Python Generation on various data and visualizations</h3>
+<h1> align="center"> Hi, I'm Brian Gainer 👋 </h1>
+<h3> align="center"> QA Analyst Engineering samples for Python Generation on various data and visualizations </h3>
 
 <p> align="left"> <img src="https://komarev.com/ghpvc/?username=bgainer&label=Profile%20views&color=0e75b6&style=flat" alt="bgainer" /> </p>
 
